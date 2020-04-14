@@ -2,4 +2,10 @@
 
 def game_hash
   game_hash = Hash.new 
-end
+  
+  {:home =>
+    
+    
+  :away => 
+    
+  } 
